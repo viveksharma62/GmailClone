@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgmailproject=self.webpackChunkgmailproject||[]).push([[130],{130:(e,r,s)=>{s.r(r),s.d(r,{default:()=>c});var a=s(6446),t=s(5865),l=s(3216),n=s(579);const c=()=>{const e=(0,l.r5)();return console.log(e),(0,n.jsx)(a.A,{style:{marginLeft:250},children:(0,n.jsx)(t.A,{variant:"h4",children:"There was error loading this page"})})}}}]);
+//# sourceMappingURL=130.3f21ce43.chunk.js.map
